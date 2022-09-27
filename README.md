@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning how to use GitHub. I just create a README.md in my personal repository PeterCullenBurbery.
+🌱 I’m currently learning how to use GitHub. I just created a README.md in my personal repository PeterCullenBurbery.
 
 I'm currently learning about combinatorics, factorials, binomials, subfactorials, Catalan numbers, multinomials, rising factorials, falling factorials, permutations, combinations, and derangements.
 
