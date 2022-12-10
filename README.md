@@ -3,6 +3,8 @@
 
 I really like JetBrains IDEs. I have access to JetBrains products for free as a student. I have used IntelliJ IDEA Ultimate, PyCharm, Fleet, WebStorm, Datagrip, Space, MPS, Android Studio, and Php Storm. I use GitHub to sync work for my classes at Marshall University between computers and for work I do with Wolfram Mathematica which I also use a lot. I also enjoy using BricsCAD Ultimate by Bricscys which I have access to for free as a student. I am also excited about GitHub copilot which I have access to for free as a student.
 
+I'm working on a minor in computer science at Marshall University and I have also learned at Zero to Mastery Academy and freecodecamp.org.
+
 I'm currently learning about combinatorics, factorials, binomials, subfactorials, Catalan numbers, multinomials, rising factorials, falling factorials, permutations, combinations, and derangements.
 
 <!--
