@@ -9,8 +9,6 @@ I love New York City and other megacities and believe the future is in cities.
 
 I also enjoy the site whimsical.com a lot, which I highly recommend.
 
-I have a website at peterburbery.com. I have a page that serves as a repository for information about the SI at https://peterburbery.com/the-international-system-of-units-si/
-
 I'm working on a minor in computer science at Marshall University and I have also learned at Zero to Mastery Academy and freecodecamp.org. I also enjoy reading the art of computer programming by Donald Knuth.
 
 I'm currently learning about combinatorics, factorials, binomials, subfactorials, Catalan numbers, multinomials, rising factorials, falling factorials, permutations, combinations, and derangements. 
@@ -22,6 +20,8 @@ I enjoy learning physics with materials by Richard Feynman with the Feymann lect
 I like Wikipedia, which I edit a lot. I also like freecodecamp.org founded by Quincy Larson. I also like lichess.org where I sometimes play chess.
 
 I have completed freecodecamp.org's responsive web design curriculum at https://www.freecodecamp.org/certification/petercullenburbery/responsive-web-design.
+
+I have a website at peterburbery.com. I have a page that serves as a repository for information about the SI at https://peterburbery.com/the-international-system-of-units-si/
 <!--
 **PeterCullenBurbery/PeterCullenBurbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
