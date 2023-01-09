@@ -15,6 +15,10 @@ I'm working on a minor in computer science at Marshall University and I have als
 
 I'm currently learning about combinatorics, factorials, binomials, subfactorials, Catalan numbers, multinomials, rising factorials, falling factorials, permutations, combinations, and derangements. 
 
+I enjoy learning about American Civil War history and the great general Ulysses S. Grant and William Tecumseh Sherman. I also enjoy the writings of C. S. Lewis, St. Augustine, George MacDonald, and G. K. Chesterton.
+
+I enjoy learning physics with materials by Richard Feynman with the Feymann lectures, Stephen Wolfram, and Douglas C. Giancoli.
+
 
 <!--
 **PeterCullenBurbery/PeterCullenBurbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
