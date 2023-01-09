@@ -20,6 +20,8 @@ I enjoy learning about American Civil War history and the great general Ulysses 
 I enjoy learning physics with materials by Richard Feynman with the Feymann lectures, Stephen Wolfram, and Douglas C. Giancoli.
 
 I like Wikipedia, which I edit a lot. I also like freecodecamp.org founded by Quincy Larson. I also like lichess.org where I sometimes play chess.
+
+I have completed freecodecamp.org's responsive web design curriculum at https://www.freecodecamp.org/certification/petercullenburbery/responsive-web-design.
 <!--
 **PeterCullenBurbery/PeterCullenBurbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
