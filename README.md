@@ -5,6 +5,8 @@ I really like JetBrains IDEs. I have access to JetBrains products for free as a 
 
 I also enjoy using BricsCAD Ultimate by Bricscys which I have access to for free as a student. I am also excited about GitHub copilot which I have access to for free as a student. I am excited about AI. I am excited about ChatGPT and other applications of AI including Muzero and AlphaFold.
 
+I love New York City and other megacities and believe the future is in cities.
+
 I also enjoy the site whimsical.com a lot, which I highly recommend.
 
 I have a website at peterburbery.com. I have a page that serves as a repository for information about the SI at https://peterburbery.com/the-international-system-of-units-si/
@@ -13,7 +15,6 @@ I'm working on a minor in computer science at Marshall University and I have als
 
 I'm currently learning about combinatorics, factorials, binomials, subfactorials, Catalan numbers, multinomials, rising factorials, falling factorials, permutations, combinations, and derangements. 
 
-I love New York City and other megacities and believe the future is in cities.
 
 <!--
 **PeterCullenBurbery/PeterCullenBurbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
