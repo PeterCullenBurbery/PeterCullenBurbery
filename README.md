@@ -5,9 +5,7 @@ I like JetBrains IDEs. I have access to JetBrains products for free as a student
 
 I also enjoy using BricsCAD Ultimate by Bricscys which I have access to for free as a student. I am also excited about GitHub copilot which I have access to for free as a student. I am excited about AI. I am excited about ChatGPT and other applications of AI including Muzero and AlphaFold.
 
-I love New York City and other megacities and believe the future is in cities.
-
-I also enjoy the site whimsical.com a lot, which I highly recommend.
+I love New York City.
 
 I'm working on a minor in computer science at Marshall University and I have also learned at Zero to Mastery Academy and freecodecamp.org. I also enjoy reading the art of computer programming by Donald Knuth.
 
