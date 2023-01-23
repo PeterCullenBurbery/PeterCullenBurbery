@@ -17,6 +17,8 @@ I enjoy learning physics with materials by Richard Feynman with the Feymann lect
 
 I like Wikipedia, which I edit a lot. I also like freecodecamp.org founded by Quincy Larson. I also like lichess.org where I sometimes play chess.
 
+I like Star Wars the first six movies. I don't think the new movies are canonical.
+
 I have completed freecodecamp.org's responsive web design curriculum at https://www.freecodecamp.org/certification/petercullenburbery/responsive-web-design.
 
 I have a website at peterburbery.com. I have a page that serves as a repository for information about the SI at https://peterburbery.com/the-international-system-of-units-si/
