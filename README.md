@@ -3,7 +3,7 @@
 
 I am looking forward to ITER achieving Q=10 in 2035 in France. I believe sustained thermonuclear fusion controlled in a tokamak is the best way to ensure a good future of clean energy for future generations.
 
-I like JetBrains IDEs. I have access to JetBrains products for free as a student. I have used IntelliJ IDEA Ultimate, PyCharm, Fleet, WebStorm, Datagrip, Space, MPS, Android Studio, and Php Storm. I use GitHub to sync work for my classes at Marshall University between computers and for work I do with Wolfram Mathematica which I also use a lot.
+I like JetBrains IDEs. I have access to JetBrains products for free as a student. I have used IntelliJ IDEA Ultimate, PyCharm, Fleet, WebStorm, Datagrip, Space, MPS, Android Studio, and Php Storm. I use GitHub to sync work for my classes at Marshall University between computers and for work I do with Wolfram Mathematica which I also use a lot. I like using Chocolately to install packages on Windows.
 
 I also enjoy using BricsCAD Ultimate by Bricscys which I have access to for free as a student. I am also excited about GitHub copilot which I have access to for free as a student. I am excited about AI. I am excited about ChatGPT and other applications of AI including Muzero and AlphaFold.
 
