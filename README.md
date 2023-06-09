@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning how to use GitHub. I just created a README.md in my personal repository PeterCullenBurbery.
+I realize I have a lot of GitHub repositories.
 
 I have experience with Alma Linux, Cent OS linux, Rocky Linux, Linux Mint, Fedora Linux, Kali linux, Pop linux, Ubuntu Linux, Manjaro Linux, and Arch Linux.
 
