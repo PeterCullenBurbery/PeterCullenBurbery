@@ -2,6 +2,8 @@
 🌱 I’m currently learning how to use GitHub. I just created a README.md in my personal repository PeterCullenBurbery.
 I realize I have a lot of GitHub repositories.
 
+I am not storing any pdf files that would be guilty of copyright infringement on GitHub. To be sure, I searched user:PeterCullenBurbery path:*.pdf on GitHub and I got 0 results.
+
 I have brought my repository's basic hypergeometric functions up to GitHub Community Standards.
 
 I am working as an intern with the U.S. Department of Commerce's National Institute of Standards and Technology (NIST)'s Summer Undergraduate Research Fellowship (SURF) with Howard Cohl, who has two PhDs. I am working on formatting basic hypergeometric functions in LaTeX. I am majoring in Computer science at Marshall University and am considering getting either an accelerated Masters's Degree in Computer Science at Marshall or a PhD in Computer Science which Marshall does not offer in Computer Science.
@@ -11,7 +13,7 @@ Most of my work is in the Wolfram Language with Mathematica.
 I use Windows 10 Education for my operating system.
 
 
- I am working on writing good code.
+ I am working on writing good code. I would like to encourage developers to write good code.
  I hope to do this by using version control to store history with GitHub instead of just copying the file to a backup directory on my computer. I realize some of my commits to GitHub are pretty large and others are pretty small, but I think using GitHub is better than just doing file-1, file-2, file-3 and making a copy every time with a number attached or the date-time attached to the file name for version history. I am using GitHub and GitHub Desktop.
  I am using Mathematica 13.3 Prerelease version currently.
 I have published content to the Wolfram paclet repository at paclets.com and the Wolfram Function Repository and the Wolfram Data Repository and the Wolfram Data Repository and Wikimedia Commons.
