@@ -8,6 +8,8 @@ I am working as an intern with the U.S. Department of Commerce's National Instit
 
 Most of my work is in the Wolfram Language with Mathematica.
 
+I use Windows 10 Education for my operating system.
+
 I have experience with Alma Linux, Cent OS linux, Rocky Linux, Linux Mint, Fedora Linux, Kali linux, Pop linux, Ubuntu Linux, Manjaro Linux, and Arch Linux.
 
 I am looking forward to ITER achieving Q=10 in 2035 in France. I believe sustained thermonuclear fusion controlled in a tokamak is the best way to ensure a good future of clean energy for future generations.
