@@ -2,9 +2,11 @@
 🌱 I’m currently learning how to use GitHub. I just created a README.md in my personal repository PeterCullenBurbery.
 I realize I have a lot of GitHub repositories.
 
-I have brought my repository basic hypergeometric functions up to GitHub Community Standards.
+I have brought my repository's basic hypergeometric functions up to GitHub Community Standards.
 
 I am working as an intern with the U.S. Department of Commerce's National Institute of Standards and Technology (NIST)'s Summer Undergraduate Research Fellowship (SURF) with Howard Cohl, who has two PhDs. I am working on formatting basic hypergeometric functions in LaTeX. I am majoring in Computer science at Marshall University and am considering getting either an accelerated Masters's Degree in Computer Science at Marshall or a PhD in Computer Science which Marshall does not offer in Computer Science.
+
+Most of my work is in the Wolfram Language with Mathematica.
 
 I have experience with Alma Linux, Cent OS linux, Rocky Linux, Linux Mint, Fedora Linux, Kali linux, Pop linux, Ubuntu Linux, Manjaro Linux, and Arch Linux.
 
