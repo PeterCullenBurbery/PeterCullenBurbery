@@ -2,6 +2,10 @@
 🌱 I’m currently learning how to use GitHub. I just created a README.md in my personal repository PeterCullenBurbery.
 I realize I have a lot of GitHub repositories.
 
+I have brought my repository basic hypergeometric functions up to GitHub Community Standards.
+
+I am working as an intern with the U.S. Department of Commerce's National Institute of Standards and Technology (NIST)'s Summer Undergraduate Research Fellowship (SURF) with Howard Cohl, who has two PhDs. I am working on formatting basic hypergeometric functions in LaTeX. I am majoring in Computer science at Marshall University and am considering getting either an accelerated Masters's Degree in Computer Science at Marshall or a PhD in Computer Science which Marshall does not offer in Computer Science.
+
 I have experience with Alma Linux, Cent OS linux, Rocky Linux, Linux Mint, Fedora Linux, Kali linux, Pop linux, Ubuntu Linux, Manjaro Linux, and Arch Linux.
 
 I am looking forward to ITER achieving Q=10 in 2035 in France. I believe sustained thermonuclear fusion controlled in a tokamak is the best way to ensure a good future of clean energy for future generations.
@@ -12,7 +16,7 @@ I also enjoy using BricsCAD Ultimate by Bricscys which I have access to for free
 
 I love New York City.
 
-I'm working on a minor in computer science at Marshall University and I have also learned at Zero to Mastery Academy and freecodecamp.org. I also enjoy reading the art of computer programming by Donald Knuth.
+I have also learned at Zero to Mastery Academy and freecodecamp.org. I also enjoy reading the art of computer programming by Donald Knuth.
 
 I'm currently learning about combinatorics, factorials, binomials, subfactorials, Catalan numbers, multinomials, rising factorials, falling factorials, permutations, combinations, and derangements. 
 
