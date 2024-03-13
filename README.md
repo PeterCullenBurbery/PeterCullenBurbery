@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning how to use GitHub. I just created a README.md in my personal repository PeterCullenBurbery.
 I realize I have a lot of GitHub repositories.
+I have a blog post at https://peterburbery.com/2024/03/13/create-a-database-with-postgresql-and-valentina-studio/.
 
 I am not storing any pdf files that would be guilty of copyright infringement on GitHub. To be sure, I searched user:PeterCullenBurbery path:*.pdf on GitHub and I got 0 results.
 
